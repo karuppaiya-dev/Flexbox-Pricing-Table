@@ -3,7 +3,7 @@
 
 
 ## 🚀 Live Demo
-<a href="https://karuppaiya-dev.github.io/Flexbox-Pricing-Table/ " target="_blank"><strong>View Live Demo</strong></a>
+[View Live Demo](https://karuppaiya-dev.github.io/Flexbox-Pricing-Table/)
 
 A simple and responsive pricing table built using HTML and CSS Flexbox.
 
